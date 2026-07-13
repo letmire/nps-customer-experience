@@ -1,0 +1,801 @@
+ID_Feedback,Canal_Atendimento,Nota_NPS,Categoria_Feedback,Comentario_Cliente,Classificacao_NPS
+5001,E-mail,7,Qualidade do Produto,Falta de informações técnicas na descrição,Neutro
+5002,E-mail,10,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5003,Chat,9,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5004,Chat,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5005,Telefone,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5006,Autoatendimento,5,Logística/Entrega,Entrega rápida e produto excelente,Detrator
+5007,Chat,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5008,Autoatendimento,10,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5009,Autoatendimento,9,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5010,Chat,5,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Detrator
+5011,E-mail,4,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5012,Chat,10,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5013,Chat,8,Preço/Pagamento,Falta de informações técnicas na descrição,Neutro
+5014,Autoatendimento,7,Preço/Pagamento,Atrasou 3 dias e a caixa veio amassada,Neutro
+5015,Autoatendimento,10,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5016,Chat,10,Navegação do App/Site,Preço justo e prazo cumprido,Promotor
+5017,Chat,6,Qualidade do Produto,Preço justo e prazo cumprido,Detrator
+5018,Telefone,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5019,Autoatendimento,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5020,Chat,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5021,Telefone,7,Qualidade do Produto,Preço justo e prazo cumprido,Neutro
+5022,E-mail,9,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5023,Chat,9,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5024,Chat,9,Atendimento ao Cliente,Entrega rápida e produto excelente,Promotor
+5025,Chat,4,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5026,Autoatendimento,10,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Promotor
+5027,E-mail,6,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Detrator
+5028,E-mail,4,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Detrator
+5029,Autoatendimento,2,Atendimento ao Cliente,Entrega rápida e produto excelente,Detrator
+5030,E-mail,8,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Neutro
+5031,Autoatendimento,10,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5032,Autoatendimento,3,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Detrator
+5033,E-mail,8,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5034,Chat,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5035,Autoatendimento,9,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5036,Chat,9,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5037,Autoatendimento,9,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5038,Autoatendimento,4,Preço/Pagamento,Preço justo e prazo cumprido,Detrator
+5039,E-mail,9,Preço/Pagamento,O aplicativo travou na hora de fechar a compra,Promotor
+5040,Autoatendimento,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5041,Chat,1,Qualidade do Produto,Entrega rápida e produto excelente,Detrator
+5042,Chat,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5043,Autoatendimento,10,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5044,Autoatendimento,9,Navegação do App/Site,Falta de informações técnicas na descrição,Promotor
+5045,Chat,8,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5046,Chat,0,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5047,Telefone,3,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Detrator
+5048,Chat,10,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Promotor
+5049,Autoatendimento,1,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Detrator
+5050,E-mail,9,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5051,Telefone,8,Qualidade do Produto,Entrega rápida e produto excelente,Neutro
+5052,E-mail,8,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5053,Chat,8,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Neutro
+5054,Chat,1,Preço/Pagamento,Preço justo e prazo cumprido,Detrator
+5055,E-mail,4,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Detrator
+5056,Chat,7,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Neutro
+5057,E-mail,5,Qualidade do Produto,Falta de informações técnicas na descrição,Detrator
+5058,Chat,8,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Neutro
+5059,Chat,9,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5060,Chat,10,Navegação do App/Site,Falta de informações técnicas na descrição,Promotor
+5061,E-mail,9,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5062,Autoatendimento,4,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Detrator
+5063,Autoatendimento,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5064,E-mail,10,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5065,E-mail,5,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Detrator
+5066,Telefone,10,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5067,Chat,10,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5068,Chat,9,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5069,Chat,9,Qualidade do Produto,Falta de informações técnicas na descrição,Promotor
+5070,Telefone,7,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5071,Autoatendimento,9,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5072,Telefone,0,Qualidade do Produto,Preço justo e prazo cumprido,Detrator
+5073,Telefone,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5074,E-mail,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5075,Telefone,8,Preço/Pagamento,Falta de informações técnicas na descrição,Neutro
+5076,Chat,7,Atendimento ao Cliente,Entrega rápida e produto excelente,Neutro
+5077,Telefone,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5078,E-mail,8,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Neutro
+5079,Autoatendimento,8,Preço/Pagamento,Falta de informações técnicas na descrição,Neutro
+5080,Chat,4,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Detrator
+5081,Autoatendimento,7,Qualidade do Produto,Preço justo e prazo cumprido,Neutro
+5082,Telefone,1,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Detrator
+5083,Telefone,10,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5084,E-mail,10,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Promotor
+5085,Autoatendimento,10,Preço/Pagamento,O aplicativo travou na hora de fechar a compra,Promotor
+5086,Chat,8,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Neutro
+5087,Chat,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5088,Chat,10,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Promotor
+5089,Chat,5,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Detrator
+5090,Autoatendimento,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5091,Chat,8,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5092,Telefone,10,Qualidade do Produto,Falta de informações técnicas na descrição,Promotor
+5093,Telefone,10,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5094,Chat,10,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5095,Chat,3,Atendimento ao Cliente,Falta de informações técnicas na descrição,Detrator
+5096,Autoatendimento,10,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5097,Chat,8,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5098,E-mail,9,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5099,Autoatendimento,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5100,Telefone,8,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Neutro
+5101,Telefone,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5102,Chat,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5103,E-mail,9,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5104,Chat,9,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5105,Autoatendimento,9,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5106,Chat,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5107,Chat,7,Navegação do App/Site,Preço justo e prazo cumprido,Neutro
+5108,Chat,1,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Detrator
+5109,Autoatendimento,4,Logística/Entrega,Falta de informações técnicas na descrição,Detrator
+5110,Chat,9,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5111,Autoatendimento,6,Atendimento ao Cliente,Entrega rápida e produto excelente,Detrator
+5112,Autoatendimento,10,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Promotor
+5113,Autoatendimento,1,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Detrator
+5114,Chat,9,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5115,Autoatendimento,8,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5116,Autoatendimento,1,Preço/Pagamento,Falta de informações técnicas na descrição,Detrator
+5117,Chat,7,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5118,Autoatendimento,9,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5119,Autoatendimento,10,Atendimento ao Cliente,Entrega rápida e produto excelente,Promotor
+5120,Chat,8,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5121,Chat,10,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5122,Autoatendimento,3,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Detrator
+5123,Autoatendimento,7,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Neutro
+5124,Chat,10,Qualidade do Produto,Falta de informações técnicas na descrição,Promotor
+5125,E-mail,10,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5126,Chat,9,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5127,Chat,0,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5128,Telefone,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5129,Chat,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5130,Telefone,9,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5131,Chat,5,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Detrator
+5132,Chat,0,Logística/Entrega,Preço justo e prazo cumprido,Detrator
+5133,Chat,8,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5134,Autoatendimento,8,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5135,Chat,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5136,E-mail,8,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Neutro
+5137,E-mail,10,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5138,Chat,9,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5139,Autoatendimento,9,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5140,Chat,10,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Promotor
+5141,Telefone,9,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5142,Chat,5,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Detrator
+5143,Autoatendimento,10,Preço/Pagamento,Não consegui rastrear meu pedido pelo site,Promotor
+5144,Autoatendimento,2,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5145,Telefone,10,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5146,Chat,1,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5147,Autoatendimento,8,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5148,E-mail,9,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5149,Chat,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5150,Autoatendimento,10,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5151,Chat,8,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Neutro
+5152,Autoatendimento,9,Preço/Pagamento,Produto veio com defeito e a troca foi difícil,Promotor
+5153,Chat,8,Atendimento ao Cliente,Falta de informações técnicas na descrição,Neutro
+5154,Autoatendimento,8,Atendimento ao Cliente,Entrega rápida e produto excelente,Neutro
+5155,Chat,9,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5156,E-mail,8,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Neutro
+5157,Autoatendimento,10,Navegação do App/Site,Falta de informações técnicas na descrição,Promotor
+5158,Autoatendimento,6,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5159,Chat,10,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5160,Autoatendimento,9,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Promotor
+5161,E-mail,9,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5162,Autoatendimento,10,Atendimento ao Cliente,Preço justo e prazo cumprido,Promotor
+5163,E-mail,9,Preço/Pagamento,Não consegui rastrear meu pedido pelo site,Promotor
+5164,Chat,8,Logística/Entrega,Preço justo e prazo cumprido,Neutro
+5165,Telefone,9,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Promotor
+5166,E-mail,9,Atendimento ao Cliente,Preço justo e prazo cumprido,Promotor
+5167,Telefone,8,Navegação do App/Site,Falta de informações técnicas na descrição,Neutro
+5168,E-mail,7,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5169,Chat,9,Preço/Pagamento,Produto veio com defeito e a troca foi difícil,Promotor
+5170,Autoatendimento,9,Preço/Pagamento,Produto veio com defeito e a troca foi difícil,Promotor
+5171,Autoatendimento,9,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5172,Autoatendimento,10,Atendimento ao Cliente,Preço justo e prazo cumprido,Promotor
+5173,Chat,6,Preço/Pagamento,Atrasou 3 dias e a caixa veio amassada,Detrator
+5174,Telefone,1,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Detrator
+5175,Chat,9,Qualidade do Produto,Falta de informações técnicas na descrição,Promotor
+5176,Chat,8,Qualidade do Produto,Falta de informações técnicas na descrição,Neutro
+5177,Autoatendimento,9,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5178,Autoatendimento,8,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5179,Autoatendimento,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5180,Telefone,8,Qualidade do Produto,Falta de informações técnicas na descrição,Neutro
+5181,Autoatendimento,1,Logística/Entrega,Entrega rápida e produto excelente,Detrator
+5182,E-mail,10,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5183,Chat,4,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5184,Chat,9,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5185,Chat,10,Preço/Pagamento,Falta de informações técnicas na descrição,Promotor
+5186,Chat,9,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5187,Chat,10,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5188,Autoatendimento,10,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5189,Autoatendimento,7,Logística/Entrega,Preço justo e prazo cumprido,Neutro
+5190,Autoatendimento,5,Qualidade do Produto,Entrega rápida e produto excelente,Detrator
+5191,Telefone,5,Preço/Pagamento,Produto veio com defeito e a troca foi difícil,Detrator
+5192,E-mail,8,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Neutro
+5193,Chat,6,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Detrator
+5194,Chat,10,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5195,Telefone,9,Navegação do App/Site,Falta de informações técnicas na descrição,Promotor
+5196,Autoatendimento,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5197,Chat,9,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5198,Autoatendimento,8,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Neutro
+5199,Chat,5,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Detrator
+5200,Telefone,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5201,E-mail,6,Preço/Pagamento,Não consegui rastrear meu pedido pelo site,Detrator
+5202,Chat,2,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Detrator
+5203,Telefone,9,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5204,Chat,10,Preço/Pagamento,Entrega rápida e produto excelente,Promotor
+5205,Autoatendimento,0,Atendimento ao Cliente,Falta de informações técnicas na descrição,Detrator
+5206,E-mail,10,Navegação do App/Site,Preço justo e prazo cumprido,Promotor
+5207,Chat,8,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5208,E-mail,8,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5209,Chat,9,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5210,E-mail,5,Preço/Pagamento,Não consegui rastrear meu pedido pelo site,Detrator
+5211,Autoatendimento,9,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5212,Autoatendimento,10,Preço/Pagamento,Atrasou 3 dias e a caixa veio amassada,Promotor
+5213,E-mail,4,Logística/Entrega,Entrega rápida e produto excelente,Detrator
+5214,E-mail,8,Preço/Pagamento,Falta de informações técnicas na descrição,Neutro
+5215,Chat,5,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5216,Telefone,10,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5217,Autoatendimento,9,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5218,E-mail,4,Preço/Pagamento,Não consegui rastrear meu pedido pelo site,Detrator
+5219,Telefone,9,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5220,Autoatendimento,4,Qualidade do Produto,Falta de informações técnicas na descrição,Detrator
+5221,Chat,10,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Promotor
+5222,Telefone,8,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5223,Autoatendimento,2,Preço/Pagamento,Preço justo e prazo cumprido,Detrator
+5224,Chat,8,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5225,Autoatendimento,9,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Promotor
+5226,Autoatendimento,2,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5227,Chat,3,Logística/Entrega,Preço justo e prazo cumprido,Detrator
+5228,E-mail,10,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5229,E-mail,9,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5230,Telefone,5,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Detrator
+5231,Chat,10,Navegação do App/Site,Preço justo e prazo cumprido,Promotor
+5232,Chat,9,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5233,Chat,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5234,E-mail,4,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Detrator
+5235,Chat,5,Logística/Entrega,Preço justo e prazo cumprido,Detrator
+5236,Autoatendimento,4,Preço/Pagamento,Preço justo e prazo cumprido,Detrator
+5237,Autoatendimento,10,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5238,Chat,0,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Detrator
+5239,Telefone,0,Navegação do App/Site,Preço justo e prazo cumprido,Detrator
+5240,Autoatendimento,9,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Promotor
+5241,Telefone,9,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5242,E-mail,2,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5243,Autoatendimento,3,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5244,Chat,0,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Detrator
+5245,Chat,1,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Detrator
+5246,Chat,10,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Promotor
+5247,Chat,4,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Detrator
+5248,Autoatendimento,10,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5249,Autoatendimento,8,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5250,E-mail,2,Preço/Pagamento,Preço justo e prazo cumprido,Detrator
+5251,Chat,2,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Detrator
+5252,E-mail,3,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5253,Chat,9,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5254,E-mail,2,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Detrator
+5255,Chat,7,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Neutro
+5256,Chat,6,Preço/Pagamento,Entrega rápida e produto excelente,Detrator
+5257,Autoatendimento,9,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5258,E-mail,10,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5259,E-mail,9,Qualidade do Produto,Falta de informações técnicas na descrição,Promotor
+5260,Telefone,9,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5261,Autoatendimento,5,Navegação do App/Site,Falta de informações técnicas na descrição,Detrator
+5262,Autoatendimento,9,Atendimento ao Cliente,Entrega rápida e produto excelente,Promotor
+5263,Autoatendimento,9,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5264,Chat,1,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Detrator
+5265,Chat,4,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Detrator
+5266,Autoatendimento,7,Atendimento ao Cliente,Falta de informações técnicas na descrição,Neutro
+5267,E-mail,7,Logística/Entrega,Falta de informações técnicas na descrição,Neutro
+5268,Chat,7,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5269,Chat,8,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5270,Chat,8,Atendimento ao Cliente,Falta de informações técnicas na descrição,Neutro
+5271,Chat,8,Atendimento ao Cliente,Falta de informações técnicas na descrição,Neutro
+5272,Autoatendimento,10,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5273,Autoatendimento,10,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5274,Autoatendimento,1,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Detrator
+5275,Telefone,9,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5276,Autoatendimento,4,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5277,Chat,8,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Neutro
+5278,Autoatendimento,10,Navegação do App/Site,Preço justo e prazo cumprido,Promotor
+5279,Chat,7,Qualidade do Produto,Preço justo e prazo cumprido,Neutro
+5280,Chat,0,Logística/Entrega,Entrega rápida e produto excelente,Detrator
+5281,Autoatendimento,2,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Detrator
+5282,Chat,4,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5283,E-mail,0,Logística/Entrega,Preço justo e prazo cumprido,Detrator
+5284,Chat,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5285,Chat,9,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5286,Chat,9,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5287,Chat,4,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Detrator
+5288,E-mail,9,Navegação do App/Site,Falta de informações técnicas na descrição,Promotor
+5289,Chat,6,Qualidade do Produto,Entrega rápida e produto excelente,Detrator
+5290,Autoatendimento,6,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Detrator
+5291,Chat,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5292,Telefone,8,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5293,Autoatendimento,9,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5294,Autoatendimento,5,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Detrator
+5295,Autoatendimento,8,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5296,Chat,10,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5297,Chat,8,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Neutro
+5298,Autoatendimento,7,Preço/Pagamento,Atrasou 3 dias e a caixa veio amassada,Neutro
+5299,Chat,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5300,Chat,8,Qualidade do Produto,Falta de informações técnicas na descrição,Neutro
+5301,Telefone,8,Preço/Pagamento,Produto veio com defeito e a troca foi difícil,Neutro
+5302,Chat,8,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Neutro
+5303,Chat,8,Navegação do App/Site,Falta de informações técnicas na descrição,Neutro
+5304,E-mail,8,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Neutro
+5305,Chat,7,Logística/Entrega,Falta de informações técnicas na descrição,Neutro
+5306,E-mail,10,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Promotor
+5307,Autoatendimento,9,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5308,E-mail,8,Logística/Entrega,Falta de informações técnicas na descrição,Neutro
+5309,Telefone,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5310,Chat,6,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Detrator
+5311,Telefone,8,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Neutro
+5312,Telefone,9,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5313,Autoatendimento,9,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5314,Chat,10,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5315,Chat,8,Logística/Entrega,Falta de informações técnicas na descrição,Neutro
+5316,Chat,2,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Detrator
+5317,E-mail,10,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5318,E-mail,8,Atendimento ao Cliente,Entrega rápida e produto excelente,Neutro
+5319,Autoatendimento,9,Atendimento ao Cliente,Preço justo e prazo cumprido,Promotor
+5320,Autoatendimento,4,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Detrator
+5321,Chat,9,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5322,Chat,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5323,Autoatendimento,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5324,E-mail,8,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Neutro
+5325,Autoatendimento,10,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5326,Telefone,4,Preço/Pagamento,Não consegui rastrear meu pedido pelo site,Detrator
+5327,Telefone,4,Logística/Entrega,Falta de informações técnicas na descrição,Detrator
+5328,Autoatendimento,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5329,E-mail,8,Preço/Pagamento,Entrega rápida e produto excelente,Neutro
+5330,Chat,7,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5331,Chat,10,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5332,Autoatendimento,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5333,Chat,3,Qualidade do Produto,Falta de informações técnicas na descrição,Detrator
+5334,Chat,7,Logística/Entrega,Falta de informações técnicas na descrição,Neutro
+5335,Telefone,6,Atendimento ao Cliente,Entrega rápida e produto excelente,Detrator
+5336,E-mail,10,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Promotor
+5337,Autoatendimento,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5338,Autoatendimento,9,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5339,E-mail,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5340,Chat,1,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Detrator
+5341,Autoatendimento,8,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Neutro
+5342,Chat,5,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Detrator
+5343,E-mail,9,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Promotor
+5344,Autoatendimento,10,Atendimento ao Cliente,Entrega rápida e produto excelente,Promotor
+5345,Autoatendimento,10,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5346,E-mail,10,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5347,Autoatendimento,3,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Detrator
+5348,Telefone,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5349,E-mail,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5350,E-mail,2,Navegação do App/Site,Entrega rápida e produto excelente,Detrator
+5351,Chat,9,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5352,E-mail,8,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5353,E-mail,9,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5354,E-mail,9,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Promotor
+5355,Chat,4,Atendimento ao Cliente,Entrega rápida e produto excelente,Detrator
+5356,Autoatendimento,3,Atendimento ao Cliente,Preço justo e prazo cumprido,Detrator
+5357,Chat,9,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5358,Chat,8,Logística/Entrega,Falta de informações técnicas na descrição,Neutro
+5359,Telefone,1,Qualidade do Produto,Preço justo e prazo cumprido,Detrator
+5360,E-mail,6,Atendimento ao Cliente,Entrega rápida e produto excelente,Detrator
+5361,Autoatendimento,7,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Neutro
+5362,Chat,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5363,Autoatendimento,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5364,Chat,8,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5365,Autoatendimento,7,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Neutro
+5366,Autoatendimento,8,Qualidade do Produto,Entrega rápida e produto excelente,Neutro
+5367,Autoatendimento,8,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Neutro
+5368,Chat,7,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Neutro
+5369,Autoatendimento,9,Preço/Pagamento,O aplicativo travou na hora de fechar a compra,Promotor
+5370,Telefone,1,Logística/Entrega,Entrega rápida e produto excelente,Detrator
+5371,E-mail,8,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Neutro
+5372,Chat,7,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Neutro
+5373,Autoatendimento,7,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5374,Chat,10,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5375,Autoatendimento,6,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Detrator
+5376,Chat,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5377,E-mail,9,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Promotor
+5378,E-mail,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5379,Autoatendimento,9,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5380,Chat,8,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Neutro
+5381,Autoatendimento,5,Qualidade do Produto,Falta de informações técnicas na descrição,Detrator
+5382,Chat,8,Navegação do App/Site,Falta de informações técnicas na descrição,Neutro
+5383,Autoatendimento,4,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5384,Autoatendimento,9,Qualidade do Produto,Falta de informações técnicas na descrição,Promotor
+5385,Autoatendimento,10,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5386,Chat,6,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5387,Chat,8,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5388,Telefone,10,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5389,Chat,9,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5390,Autoatendimento,9,Preço/Pagamento,Entrega rápida e produto excelente,Promotor
+5391,Chat,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5392,Telefone,8,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5393,E-mail,10,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5394,Chat,9,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Promotor
+5395,Telefone,7,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5396,Autoatendimento,7,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5397,Autoatendimento,7,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5398,Telefone,2,Logística/Entrega,Entrega rápida e produto excelente,Detrator
+5399,Telefone,10,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5400,E-mail,9,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Promotor
+5401,Chat,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5402,Chat,1,Atendimento ao Cliente,Falta de informações técnicas na descrição,Detrator
+5403,Chat,8,Navegação do App/Site,Falta de informações técnicas na descrição,Neutro
+5404,E-mail,8,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5405,Telefone,9,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5406,Chat,10,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Promotor
+5407,E-mail,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5408,Telefone,1,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5409,Chat,1,Navegação do App/Site,Preço justo e prazo cumprido,Detrator
+5410,Telefone,9,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5411,Autoatendimento,7,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Neutro
+5412,Autoatendimento,7,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Neutro
+5413,Chat,8,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Neutro
+5414,Chat,7,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Neutro
+5415,E-mail,8,Preço/Pagamento,Não consegui rastrear meu pedido pelo site,Neutro
+5416,E-mail,10,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5417,Chat,9,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5418,Autoatendimento,1,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Detrator
+5419,Autoatendimento,10,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Promotor
+5420,Chat,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5421,Chat,9,Atendimento ao Cliente,Preço justo e prazo cumprido,Promotor
+5422,Chat,8,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5423,E-mail,9,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5424,Autoatendimento,7,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Neutro
+5425,Chat,8,Preço/Pagamento,Não consegui rastrear meu pedido pelo site,Neutro
+5426,Chat,7,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5427,E-mail,7,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Neutro
+5428,E-mail,8,Qualidade do Produto,Preço justo e prazo cumprido,Neutro
+5429,Autoatendimento,8,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Neutro
+5430,Chat,9,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5431,Chat,10,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5432,Chat,8,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Neutro
+5433,E-mail,8,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Neutro
+5434,Autoatendimento,10,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5435,Autoatendimento,9,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5436,Autoatendimento,10,Preço/Pagamento,Produto veio com defeito e a troca foi difícil,Promotor
+5437,Chat,6,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Detrator
+5438,E-mail,1,Navegação do App/Site,Preço justo e prazo cumprido,Detrator
+5439,Autoatendimento,4,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Detrator
+5440,Autoatendimento,0,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Detrator
+5441,Chat,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5442,Telefone,10,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5443,Autoatendimento,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5444,Chat,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5445,Telefone,3,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Detrator
+5446,Chat,6,Preço/Pagamento,Não consegui rastrear meu pedido pelo site,Detrator
+5447,Chat,10,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5448,Autoatendimento,0,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Detrator
+5449,Chat,7,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5450,Autoatendimento,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5451,Telefone,3,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Detrator
+5452,E-mail,7,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5453,Autoatendimento,7,Preço/Pagamento,Atrasou 3 dias e a caixa veio amassada,Neutro
+5454,Chat,8,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5455,Chat,9,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Promotor
+5456,Chat,7,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Neutro
+5457,Autoatendimento,10,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5458,Autoatendimento,10,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5459,Autoatendimento,10,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5460,Autoatendimento,5,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Detrator
+5461,Autoatendimento,9,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5462,Chat,7,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5463,E-mail,9,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5464,Chat,9,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5465,E-mail,9,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Promotor
+5466,E-mail,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5467,Chat,8,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Neutro
+5468,Autoatendimento,8,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Neutro
+5469,E-mail,10,Navegação do App/Site,Preço justo e prazo cumprido,Promotor
+5470,Chat,10,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5471,Autoatendimento,3,Preço/Pagamento,Produto veio com defeito e a troca foi difícil,Detrator
+5472,Chat,10,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5473,Chat,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5474,Autoatendimento,8,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5475,E-mail,1,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Detrator
+5476,Telefone,10,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5477,Chat,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5478,E-mail,9,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Promotor
+5479,Chat,7,Navegação do App/Site,Falta de informações técnicas na descrição,Neutro
+5480,Chat,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5481,Chat,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5482,Chat,3,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5483,Chat,9,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Promotor
+5484,Autoatendimento,1,Logística/Entrega,Preço justo e prazo cumprido,Detrator
+5485,Autoatendimento,5,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5486,Autoatendimento,10,Preço/Pagamento,Entrega rápida e produto excelente,Promotor
+5487,Chat,8,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Neutro
+5488,Chat,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5489,Chat,4,Navegação do App/Site,Preço justo e prazo cumprido,Detrator
+5490,Chat,9,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5491,Autoatendimento,0,Atendimento ao Cliente,Preço justo e prazo cumprido,Detrator
+5492,Chat,9,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5493,Chat,9,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5494,E-mail,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5495,Autoatendimento,8,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Neutro
+5496,Chat,8,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Neutro
+5497,Autoatendimento,10,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5498,Chat,5,Navegação do App/Site,Entrega rápida e produto excelente,Detrator
+5499,E-mail,10,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5500,Chat,10,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5501,Telefone,7,Logística/Entrega,Preço justo e prazo cumprido,Neutro
+5502,Chat,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5503,E-mail,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5504,Autoatendimento,9,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5505,Autoatendimento,10,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Promotor
+5506,Telefone,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5507,Chat,9,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5508,E-mail,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5509,Chat,9,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5510,Autoatendimento,9,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5511,Autoatendimento,9,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5512,E-mail,10,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5513,E-mail,8,Atendimento ao Cliente,Falta de informações técnicas na descrição,Neutro
+5514,Chat,7,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5515,Chat,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5516,E-mail,5,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Detrator
+5517,E-mail,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5518,Chat,10,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5519,Telefone,10,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5520,Chat,10,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5521,E-mail,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5522,Telefone,8,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Neutro
+5523,E-mail,5,Logística/Entrega,Falta de informações técnicas na descrição,Detrator
+5524,Telefone,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5525,E-mail,9,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5526,Autoatendimento,8,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5527,Chat,9,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5528,Chat,5,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Detrator
+5529,Chat,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5530,E-mail,10,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5531,Autoatendimento,9,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5532,Chat,5,Atendimento ao Cliente,Entrega rápida e produto excelente,Detrator
+5533,Autoatendimento,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5534,Chat,9,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5535,E-mail,6,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5536,E-mail,8,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5537,Chat,8,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Neutro
+5538,Chat,7,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Neutro
+5539,Telefone,9,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5540,Autoatendimento,10,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Promotor
+5541,Chat,7,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5542,Chat,10,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5543,Chat,10,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5544,Chat,7,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Neutro
+5545,Chat,5,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5546,Chat,9,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5547,Autoatendimento,5,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Detrator
+5548,Chat,10,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5549,Telefone,9,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5550,Telefone,7,Preço/Pagamento,Preço justo e prazo cumprido,Neutro
+5551,Chat,5,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5552,Chat,9,Preço/Pagamento,Atrasou 3 dias e a caixa veio amassada,Promotor
+5553,E-mail,9,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5554,Chat,5,Logística/Entrega,Entrega rápida e produto excelente,Detrator
+5555,Chat,10,Preço/Pagamento,Preço justo e prazo cumprido,Promotor
+5556,Autoatendimento,5,Navegação do App/Site,Preço justo e prazo cumprido,Detrator
+5557,Chat,8,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Neutro
+5558,Chat,5,Logística/Entrega,Preço justo e prazo cumprido,Detrator
+5559,Chat,7,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5560,Autoatendimento,10,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5561,Autoatendimento,7,Qualidade do Produto,Entrega rápida e produto excelente,Neutro
+5562,Autoatendimento,9,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5563,Chat,9,Navegação do App/Site,Preço justo e prazo cumprido,Promotor
+5564,E-mail,10,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5565,E-mail,9,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5566,Autoatendimento,10,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Promotor
+5567,Autoatendimento,10,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Promotor
+5568,Chat,3,Qualidade do Produto,Falta de informações técnicas na descrição,Detrator
+5569,E-mail,9,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5570,Chat,9,Navegação do App/Site,Falta de informações técnicas na descrição,Promotor
+5571,Telefone,10,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5572,Telefone,7,Navegação do App/Site,Falta de informações técnicas na descrição,Neutro
+5573,E-mail,9,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5574,Autoatendimento,4,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Detrator
+5575,Telefone,8,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Neutro
+5576,Autoatendimento,4,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5577,Chat,10,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5578,Autoatendimento,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5579,Chat,9,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5580,Autoatendimento,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5581,Chat,6,Logística/Entrega,Entrega rápida e produto excelente,Detrator
+5582,Autoatendimento,6,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5583,Chat,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5584,Chat,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5585,Chat,9,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5586,Chat,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5587,Chat,10,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5588,Chat,9,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5589,E-mail,9,Preço/Pagamento,Produto veio com defeito e a troca foi difícil,Promotor
+5590,Chat,5,Atendimento ao Cliente,Falta de informações técnicas na descrição,Detrator
+5591,Autoatendimento,2,Atendimento ao Cliente,Entrega rápida e produto excelente,Detrator
+5592,Autoatendimento,9,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5593,Autoatendimento,7,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Neutro
+5594,E-mail,10,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5595,Autoatendimento,9,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Promotor
+5596,Chat,9,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5597,Chat,8,Preço/Pagamento,Entrega rápida e produto excelente,Neutro
+5598,Chat,9,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Promotor
+5599,Autoatendimento,10,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5600,Chat,6,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Detrator
+5601,E-mail,10,Preço/Pagamento,O aplicativo travou na hora de fechar a compra,Promotor
+5602,E-mail,8,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5603,E-mail,2,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Detrator
+5604,Autoatendimento,10,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5605,Chat,4,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Detrator
+5606,Telefone,7,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5607,Autoatendimento,7,Atendimento ao Cliente,Entrega rápida e produto excelente,Neutro
+5608,Autoatendimento,10,Preço/Pagamento,Atrasou 3 dias e a caixa veio amassada,Promotor
+5609,Chat,10,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Promotor
+5610,Chat,10,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5611,Autoatendimento,9,Preço/Pagamento,Entrega rápida e produto excelente,Promotor
+5612,E-mail,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5613,Autoatendimento,2,Logística/Entrega,Falta de informações técnicas na descrição,Detrator
+5614,Autoatendimento,8,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5615,E-mail,0,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Detrator
+5616,Chat,2,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Detrator
+5617,E-mail,9,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5618,E-mail,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5619,Telefone,4,Navegação do App/Site,Preço justo e prazo cumprido,Detrator
+5620,Chat,7,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5621,Autoatendimento,9,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5622,Chat,5,Preço/Pagamento,Preço justo e prazo cumprido,Detrator
+5623,Chat,9,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5624,Telefone,0,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5625,Autoatendimento,9,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5626,Autoatendimento,7,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Neutro
+5627,E-mail,7,Qualidade do Produto,Preço justo e prazo cumprido,Neutro
+5628,Autoatendimento,8,Navegação do App/Site,Falta de informações técnicas na descrição,Neutro
+5629,Autoatendimento,9,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5630,Chat,7,Navegação do App/Site,Preço justo e prazo cumprido,Neutro
+5631,Autoatendimento,9,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Promotor
+5632,Chat,9,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5633,E-mail,10,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Promotor
+5634,Autoatendimento,9,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5635,Telefone,9,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5636,Autoatendimento,9,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5637,Chat,5,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5638,E-mail,8,Atendimento ao Cliente,Falta de informações técnicas na descrição,Neutro
+5639,Chat,1,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Detrator
+5640,Chat,10,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Promotor
+5641,Chat,6,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Detrator
+5642,Autoatendimento,9,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Promotor
+5643,Autoatendimento,3,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5644,E-mail,10,Preço/Pagamento,Preço justo e prazo cumprido,Promotor
+5645,E-mail,8,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Neutro
+5646,E-mail,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5647,E-mail,7,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5648,Chat,4,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Detrator
+5649,Autoatendimento,8,Preço/Pagamento,O aplicativo travou na hora de fechar a compra,Neutro
+5650,Autoatendimento,4,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Detrator
+5651,Chat,2,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Detrator
+5652,E-mail,7,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5653,E-mail,8,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5654,Telefone,5,Logística/Entrega,Falta de informações técnicas na descrição,Detrator
+5655,E-mail,7,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5656,Autoatendimento,2,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5657,Autoatendimento,5,Preço/Pagamento,Falta de informações técnicas na descrição,Detrator
+5658,Chat,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5659,Chat,9,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5660,Telefone,8,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Neutro
+5661,E-mail,4,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Detrator
+5662,E-mail,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5663,Autoatendimento,8,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5664,Autoatendimento,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5665,Autoatendimento,10,Navegação do App/Site,Atrasou 3 dias e a caixa veio amassada,Promotor
+5666,Telefone,8,Navegação do App/Site,Preço justo e prazo cumprido,Neutro
+5667,Chat,8,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Neutro
+5668,Autoatendimento,6,Logística/Entrega,Entrega rápida e produto excelente,Detrator
+5669,Chat,6,Preço/Pagamento,Preço justo e prazo cumprido,Detrator
+5670,Chat,9,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5671,Chat,9,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Promotor
+5672,Autoatendimento,8,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5673,Autoatendimento,9,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5674,Chat,9,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5675,Telefone,7,Atendimento ao Cliente,Preço justo e prazo cumprido,Neutro
+5676,Autoatendimento,7,Qualidade do Produto,Entrega rápida e produto excelente,Neutro
+5677,E-mail,4,Atendimento ao Cliente,Produto veio com defeito e a troca foi difícil,Detrator
+5678,Telefone,7,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5679,E-mail,10,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5680,E-mail,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5681,Chat,10,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Promotor
+5682,Telefone,10,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Promotor
+5683,E-mail,0,Logística/Entrega,Preço justo e prazo cumprido,Detrator
+5684,Autoatendimento,4,Navegação do App/Site,Falta de informações técnicas na descrição,Detrator
+5685,Chat,5,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5686,Chat,9,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5687,Chat,10,Preço/Pagamento,Produto veio com defeito e a troca foi difícil,Promotor
+5688,Autoatendimento,7,Qualidade do Produto,Preço justo e prazo cumprido,Neutro
+5689,E-mail,2,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5690,Telefone,10,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Promotor
+5691,Chat,5,Atendimento ao Cliente,Falta de informações técnicas na descrição,Detrator
+5692,Chat,2,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Detrator
+5693,E-mail,10,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5694,E-mail,7,Logística/Entrega,Preço justo e prazo cumprido,Neutro
+5695,Chat,1,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Detrator
+5696,Chat,9,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5697,Chat,5,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Detrator
+5698,Chat,9,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5699,E-mail,10,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5700,Chat,5,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Detrator
+5701,Autoatendimento,0,Preço/Pagamento,O aplicativo travou na hora de fechar a compra,Detrator
+5702,Autoatendimento,9,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5703,Autoatendimento,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5704,E-mail,9,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5705,Chat,7,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Neutro
+5706,E-mail,9,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5707,Telefone,5,Atendimento ao Cliente,Preço justo e prazo cumprido,Detrator
+5708,Chat,10,Atendimento ao Cliente,Preço justo e prazo cumprido,Promotor
+5709,Telefone,9,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Promotor
+5710,Chat,9,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5711,Chat,9,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Promotor
+5712,Chat,8,Qualidade do Produto,Entrega rápida e produto excelente,Neutro
+5713,Chat,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5714,Chat,8,Atendimento ao Cliente,Entrega rápida e produto excelente,Neutro
+5715,Chat,7,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5716,Telefone,0,Logística/Entrega,Preço justo e prazo cumprido,Detrator
+5717,Chat,10,Qualidade do Produto,Não consegui rastrear meu pedido pelo site,Promotor
+5718,Chat,4,Qualidade do Produto,Entrega rápida e produto excelente,Detrator
+5719,Chat,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5720,Chat,10,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Promotor
+5721,Autoatendimento,9,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Promotor
+5722,Telefone,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5723,E-mail,5,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Detrator
+5724,Telefone,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5725,Chat,9,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Promotor
+5726,Autoatendimento,7,Navegação do App/Site,Entrega rápida e produto excelente,Neutro
+5727,Autoatendimento,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5728,Chat,10,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5729,Autoatendimento,9,Atendimento ao Cliente,Falta de informações técnicas na descrição,Promotor
+5730,Telefone,6,Preço/Pagamento,Falta de informações técnicas na descrição,Detrator
+5731,Telefone,10,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5732,Autoatendimento,7,Qualidade do Produto,Preço justo e prazo cumprido,Neutro
+5733,E-mail,10,Atendimento ao Cliente,Atrasou 3 dias e a caixa veio amassada,Promotor
+5734,Autoatendimento,10,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5735,Chat,8,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5736,Chat,6,Logística/Entrega,Falta de informações técnicas na descrição,Detrator
+5737,Chat,10,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Promotor
+5738,Chat,3,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Detrator
+5739,E-mail,7,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Neutro
+5740,E-mail,7,Preço/Pagamento,O aplicativo travou na hora de fechar a compra,Neutro
+5741,E-mail,6,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Detrator
+5742,E-mail,1,Navegação do App/Site,Falta de informações técnicas na descrição,Detrator
+5743,E-mail,10,Navegação do App/Site,Não consegui rastrear meu pedido pelo site,Promotor
+5744,E-mail,7,Logística/Entrega,Falta de informações técnicas na descrição,Neutro
+5745,E-mail,0,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Detrator
+5746,Telefone,9,Logística/Entrega,Falta de informações técnicas na descrição,Promotor
+5747,Chat,10,Logística/Entrega,Entrega rápida e produto excelente,Promotor
+5748,Autoatendimento,8,Qualidade do Produto,Preço justo e prazo cumprido,Neutro
+5749,Autoatendimento,7,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Neutro
+5750,E-mail,10,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5751,E-mail,9,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5752,Autoatendimento,8,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Neutro
+5753,Autoatendimento,9,Navegação do App/Site,Falta de informações técnicas na descrição,Promotor
+5754,Telefone,7,Atendimento ao Cliente,Entrega rápida e produto excelente,Neutro
+5755,Chat,10,Qualidade do Produto,O aplicativo travou na hora de fechar a compra,Promotor
+5756,Autoatendimento,3,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Detrator
+5757,Autoatendimento,10,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5758,Chat,10,Logística/Entrega,Preço justo e prazo cumprido,Promotor
+5759,Chat,4,Qualidade do Produto,Entrega rápida e produto excelente,Detrator
+5760,Autoatendimento,10,Qualidade do Produto,Preço justo e prazo cumprido,Promotor
+5761,Chat,0,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Detrator
+5762,Autoatendimento,5,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Detrator
+5763,Autoatendimento,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5764,Chat,5,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Detrator
+5765,E-mail,7,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Neutro
+5766,Chat,7,Qualidade do Produto,Produto veio com defeito e a troca foi difícil,Neutro
+5767,Autoatendimento,6,Atendimento ao Cliente,Preço justo e prazo cumprido,Detrator
+5768,Autoatendimento,2,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Detrator
+5769,Telefone,10,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5770,Chat,10,Atendimento ao Cliente,Entrega rápida e produto excelente,Promotor
+5771,Chat,10,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Promotor
+5772,Chat,7,Logística/Entrega,Entrega rápida e produto excelente,Neutro
+5773,Autoatendimento,9,Logística/Entrega,Produto veio com defeito e a troca foi difícil,Promotor
+5774,Chat,6,Preço/Pagamento,"Não gostei do atendimento pelo chat, demorado",Detrator
+5775,Telefone,9,Atendimento ao Cliente,"Não gostei do atendimento pelo chat, demorado",Promotor
+5776,E-mail,8,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Neutro
+5777,Chat,8,Navegação do App/Site,Preço justo e prazo cumprido,Neutro
+5778,Chat,9,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Promotor
+5779,Telefone,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5780,Autoatendimento,9,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Promotor
+5781,Chat,7,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5782,Chat,9,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5783,Autoatendimento,10,Qualidade do Produto,Atrasou 3 dias e a caixa veio amassada,Promotor
+5784,Telefone,10,Atendimento ao Cliente,O aplicativo travou na hora de fechar a compra,Promotor
+5785,E-mail,2,Navegação do App/Site,Produto veio com defeito e a troca foi difícil,Detrator
+5786,Autoatendimento,7,Logística/Entrega,O aplicativo travou na hora de fechar a compra,Neutro
+5787,Autoatendimento,8,Logística/Entrega,"Não gostei do atendimento pelo chat, demorado",Neutro
+5788,Chat,10,Logística/Entrega,Atrasou 3 dias e a caixa veio amassada,Promotor
+5789,Chat,9,Qualidade do Produto,Entrega rápida e produto excelente,Promotor
+5790,E-mail,10,Atendimento ao Cliente,Não consegui rastrear meu pedido pelo site,Promotor
+5791,E-mail,10,Navegação do App/Site,"Não gostei do atendimento pelo chat, demorado",Promotor
+5792,E-mail,10,Navegação do App/Site,Entrega rápida e produto excelente,Promotor
+5793,Chat,8,Navegação do App/Site,Falta de informações técnicas na descrição,Neutro
+5794,Chat,8,Qualidade do Produto,"Não gostei do atendimento pelo chat, demorado",Neutro
+5795,Autoatendimento,8,Navegação do App/Site,O aplicativo travou na hora de fechar a compra,Neutro
+5796,Autoatendimento,8,Logística/Entrega,Não consegui rastrear meu pedido pelo site,Neutro
+5797,Chat,4,Logística/Entrega,Falta de informações técnicas na descrição,Detrator
+5798,Chat,9,Navegação do App/Site,Preço justo e prazo cumprido,Promotor
+5799,Chat,6,Preço/Pagamento,Entrega rápida e produto excelente,Detrator
+5800,Autoatendimento,8,Qualidade do Produto,Falta de informações técnicas na descrição,Neutro
