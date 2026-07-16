@@ -15,7 +15,7 @@
 ## 📌 Sobre o Projeto
 
 <blockquote>
-Este projeto simula a atuação prática de um <b>Analista</b> focado em analisar e otimizar a experiência de atendimento pós-compra em uma operação de e-commerce. 
+Este projeto simula a atuação prática de um <b>Analista de Performance e Dados</b> focado em analisar e otimizar a experiência de atendimento pós-compra em uma operação de e-commerce. 
 <br><br>
 Neste repositório, estruturei um <b>Banco de Dados Relacional</b> contendo 800 feedbacks de clientes. O objetivo foi avaliar o índice de satisfação via <b>NPS (Net Promoter Score)</b> e extrair dados para identificar gargalos operacionais e propor melhorias para a gestão de Customer Experience (CX).
 </blockquote>
